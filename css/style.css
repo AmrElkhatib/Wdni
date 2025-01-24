@@ -6,10 +6,10 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    font-family: "Rubik", sans-serif;
+    font-family: "Cairo", sans-serif;
 }
 body {
-    font-family: "Rubik", sans-serif;
+    font-family: "Cairo", sans-serif;
 }
 html{
     scroll-behavior: smooth;
@@ -170,7 +170,7 @@ list-style-type: none;
 margin-top: 20px;
 }
 .main-cards .cards h2{
-    font-size: 29px;
+    font-size: 27px;
     font-weight: 700;
     margin: 0px 0px 16px;
 }
